@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "dff311e8-eb97-4692-b999-63ae27be70cd"
+name: "code-analysis"
+display_name: "Code Analysis"
+description: "Analyses code for patterns, complexity, and potential bugs across common languages"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-code-analysis"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
