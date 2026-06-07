@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "dff311e8-eb97-4692-b999-63ae27be70cd"
+id: "5824c0e3-2187-4851-b1b4-00a82818b061"
 name: "code-analysis"
 display_name: "Code Analysis"
 description: "Analyses code for patterns, complexity, and potential bugs across common languages"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
